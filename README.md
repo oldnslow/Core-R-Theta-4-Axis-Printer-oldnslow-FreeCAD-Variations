@@ -3,7 +3,8 @@
 This is my 4 axis, polar, "core-RΘ" 3D printer – an entirely new type of multi axis 3D printer designed from the ground up. 
 
 Check out my [youtube video](https://www.youtube.com/watch?v=VEgwnhLHy3g) to see it in action!
-[![Watch the video](https://github.com/user-attachments/assets/5ff6b6d4-47f7-4616-a891-96f6d1f49b7c)](https://www.youtube.com/watch?v=VEgwnhLHy3g)
+[![Watch the video](https://github.com/user-attachments/assets/1704345d-5ec4-4803-8fbe-49bbeaa76b13)](https://www.youtube.com/watch?v=VEgwnhLHy3g)
+
 
 ### Slicer
 A multi axis printer is pretty hopeless without a non-planar slicer, which is why I built this quick [radial slicer](https://github.com/jyjblrd/Radial_Non_Planar_Slicer) for the printer. This leverages the printer's rotating nozzle to print simple parts without supports, but there are some limitations to it which I cover in the YouTube video. I'm also working on an optimization based slicer which will be able to print any object without support so stay tuned for that!
