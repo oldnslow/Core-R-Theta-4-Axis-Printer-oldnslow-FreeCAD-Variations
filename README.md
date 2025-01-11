@@ -1,4 +1,4 @@
-# 4 Axis Polar 3D Printer
+# The Core R-Theta Printer
 
 This is my 4 axis, polar, "core-RΘ" 3D printer – an entirely new type of multi axis 3D printer designed from the ground up. 
 
