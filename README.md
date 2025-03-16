@@ -61,3 +61,13 @@ Some links are included so you know what to get, but they are by no means the be
 | long nozzle              | 1   | [Aliexpress](https://www.aliexpress.com/item/1005007437644929.html?spm=a2g0o.order_list.order_list_main.39.6df81802pwJpHi)                                                                                                                                                                                                                                                                                                           |                 |
 | aquarium pump            | 1   | [Aliexpress](https://aliexpress.com/item/1005005987431203.html?spm=a2g0o.order_list.order_list_main.219.6df81802pwJpHi)                                                                                                                                                                                                                                                                                                              |                 |
 | BIQU H2 V2S extruder     | 1   | [Aliexpress](https://www.aliexpress.com/item/1005002027842161.html?spm=a2g0o.order_list.order_list_main.274.6df81802pwJpHi)                                                                                                                                                                                                                                                                                                          |
+
+Please cite as:
+```
+@software{Bird_Core_R-Theta_Printer,
+author = {Bird, Joshua},
+license = {View repository for custom license.},
+title = {{Core R-Theta Printer}},
+url = {https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer}
+}
+```
