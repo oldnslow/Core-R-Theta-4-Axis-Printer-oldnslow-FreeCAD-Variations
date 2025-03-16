@@ -62,7 +62,9 @@ Some links are included so you know what to get, but they are by no means the be
 | aquarium pump            | 1   | [Aliexpress](https://aliexpress.com/item/1005005987431203.html?spm=a2g0o.order_list.order_list_main.219.6df81802pwJpHi)                                                                                                                                                                                                                                                                                                              |                 |
 | BIQU H2 V2S extruder     | 1   | [Aliexpress](https://www.aliexpress.com/item/1005002027842161.html?spm=a2g0o.order_list.order_list_main.274.6df81802pwJpHi)                                                                                                                                                                                                                                                                                                          |
 
-Please cite as:
+
+
+Bibtex Citation:
 ```
 @software{Bird_Core_R-Theta_Printer,
 author = {Bird, Joshua},
