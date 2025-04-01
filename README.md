@@ -1,8 +1,8 @@
 # The Core R-Theta Printer
 
-This is my 4 axis, polar, "core-RΘ" 3D printer – an entirely new type of multi axis 3D printer designed from the ground up. 
+This is intended to be a series of FreeCAD versions of jyjbird's 4 axis, polar, "core-RΘ" 3D printer – an entirely new type of multi axis 3D printer designed from the ground up. To start a FreeCAD version of the "original" (f8d197c circa 16 Mar 2025 commit) will be generated.
 
-Check out my [youtube video](https://www.youtube.com/watch?v=VEgwnhLHy3g) to see it in action!
+Check out jyjbird's [youtube video](https://www.youtube.com/watch?v=VEgwnhLHy3g) to see it in action!
 [![Watch the video](https://github.com/user-attachments/assets/1704345d-5ec4-4803-8fbe-49bbeaa76b13)](https://www.youtube.com/watch?v=VEgwnhLHy3g)
 
 
