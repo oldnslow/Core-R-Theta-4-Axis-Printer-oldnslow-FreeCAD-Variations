@@ -14,7 +14,7 @@ A multi axis printer is pretty hopeless without a non-planar slicer, which is wh
 ### Assembly
 There is a wealth of knowledge in the Discussions, Pull Requests and Issues tabs of this repo. The printer is by no means "plug and play", and there are no instructions as of yet, but the information in the discussions should help you get started. Feel free to post questions on the discussions tab.
 
-You can view the [3d model online](https://a360.co/3VdXkRY) to see how to assemble the printer. Everything is 3D printable, however I got the extruder mount made out of metal by JLCPCB as there is quite a bit of torque on that part. I've also included the gerber files to make your own PCB buildplate, but a sheet of MDF wood would also work.
+You can view the [3d model online](https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3NDM1MjM1ODlfN2I3YjNkNzYtYTQ2NC00Y2YzLTgxZDYtYjk0MGJjMjlhMTJmLmYzZA?sheetId=eyJ0eXBlIjoiRGVzaWduIiwiYXNzZXQiOiJmOWE5MWRhYS0yMTc3LTQ2NTMtOTE1NC05ZmQ5YTM4ODhkMTkifQ) to see how to assemble the printer. Everything is 3D printable, however I got the extruder mount made out of metal by JLCPCB as there is quite a bit of torque on that part. I've also included the gerber files to make your own PCB buildplate, but a sheet of MDF wood would also work.
 
 
 ### BOM
