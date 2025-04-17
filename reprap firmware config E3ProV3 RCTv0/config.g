@@ -6,10 +6,10 @@
 ; General preferences
 G90                                                        ; send absolute coordinates...
 M83                                                        ; ...but relative extruder moves
-M550 P"Ceramic Printer"                                    ; set printer name
+M550 P"Core-R-Theta v0"                                    ; set printer name
 
 ; Network
-M552 S1                                                    ; enable network
+M552 S0                                                    ; enable network
 M586 P0 S1                                                 ; enable HTTP
 M586 P1 S0                                                 ; disable FTP
 M586 P2 S0                                                 ; disable Telnet
@@ -23,7 +23,7 @@ M98 P"to4axis.g"
 ; M98 P"topolar.g"
 
 ; Accelerometer
-M955 P0 C"PB_2+PA_10" I46
+;M955 P0 C"PB_2+PA_10" I46                                ; not used on this machine
 
 ; Input shaping
 ; M593 P"zvddd" F38
@@ -51,3 +51,6 @@ M563 P0 D0 F0 H0                                           ; define tool 0
 G10 P0 X0 Y0 Z0                                            ; set tool 0 axis offsets
 G10 P0 R0 S0                                               ; set initial tool 0 active and standby temperatures to 0C
 T0                                                         ; select tool
+
+; Load Stored Parameters
+M501                                                       ; load tuning and other parameters from config-overide.g
